@@ -1,3 +1,5 @@
+//This code generates double gyre temporal velocity fields
+
 #include <iostream>
 #include "math.h"
 #include <vector>
